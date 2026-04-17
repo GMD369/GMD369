@@ -1,6 +1,6 @@
 # 🚀 Ghulam Mohiyu Ud Din
 
-### Full Stack Developer | AI Enthusiast | Building Intelligent Systems
+### Full Stack AI Developer | Building Intelligent Systems
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=GMD369&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Full Stack Web Developer** passionate about building **scalable, user-focused applications** and integrating **AI into real-world systems**.
+I’m a **Full Stack Web Developer** passionate about building **scalable, user focused applications** and integrating **AI into real world systems**.
 
 💡 Currently exploring:
 
