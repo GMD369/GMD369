@@ -106,7 +106,7 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, user 
 
 ## 🤝 Let's Connect
 
-* 🌐 Portfolio: https://gmd-ten.vercel.app/
+* 🌐 Portfolio: https://www.gmddeveloper.site
 * 💼 LinkedIn: https://www.linkedin.com/in/ghulam-mohiyu-ud-din-854026294
 * 💻 GitHub: https://github.com/GMD369
 
