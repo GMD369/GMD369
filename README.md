@@ -1,101 +1,107 @@
-<h1 align="center">Ghulam Mohiyu Ud Din</h1>
-<h3 align="center">Full Stack AI Engineer &nbsp;·&nbsp; RAG Pipelines &nbsp;·&nbsp; LLM Apps &nbsp;·&nbsp; SaaS</h3>
+# 👋 Hi there! I'm Ghulam Mohiyu Ud Din
 
-<p align="center">
-  <a href="https://gmd-ten.vercel.app/" target="_blank">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/ghulam-mohiyu-ud-din-854026294" target="_blank">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:ghulammohiyudin11@gmail.com">ghulammohiyudin11@gmail.com</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GMD369&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+🎯 A passionate **Full Stack AI Engineer** with a strong foundation in software engineering, currently pursuing a Bachelor's in Computer Science from UET Lahore. I specialize in **Next.js, FastAPI, RAG Pipelines, and LLM-powered SaaS development** — from system design to production deployment.
 
 ---
 
-## About
+## 🚀 About Me
 
-I'm a **Full Stack AI Engineer** building production-ready LLM-powered applications, RAG pipelines, and intelligent automation systems. Experienced in shipping SaaS platforms from backend to frontend — integrating Groq, Gemini AI, and vector databases into real-world products.
+I'm an enthusiastic developer who loves building **scalable, intelligent, and user-focused applications**. I enjoy solving real-world problems by integrating modern AI into full-stack products.
 
-Currently studying **BS Computer Science** at University of Engineering and Technology, Lahore (CGPA: 3.679/4.0).
+- 🧠 Passionate about **AI Agents, RAG Pipelines & LLM Integration**
+- 💼 Former **AI-Enhanced Web Developer Intern** at Nexium
+- 👨‍🏫 Former **Teaching Assistant** at UET Lahore
+- 📌 Building production **AI SaaS products** with LangGraph, Groq, and n8n
+- 🌍 Based in **Lahore, Pakistan**
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **AI & Automation**
 
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-0A0A0A?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq_LLM-F55036?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Groq LLM](https://img.shields.io/badge/Groq_LLM-F55036?style=flat-square)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
-![PGVector](https://img.shields.io/badge/PGVector-336791?style=flat-square)
+![Sentence Transformer](https://img.shields.io/badge/Sentence_Transformer-6A0DAD?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-00C7B7?style=flat-square)
 
-**Backend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Databases**
+**Cloud & Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PGVector](https://img.shields.io/badge/PGVector-336791?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-**Tools**
+**Tools & DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
 ---
 
-## Projects
+## 🚀 Projects
 
-### AI Knowledge Analyst Copilot
+### 🔹 AI Knowledge Analyst Copilot
 > Next.js · FastAPI · LangGraph · Qdrant · Groq LLM · Supabase · Docker
 
-Full-stack RAG platform where users upload documents and chat with them through an intelligent pipeline. Architected a LangGraph state machine with 6 nodes — query rewriting → retrieval → reranking → answer generation → confidence evaluation → fallback — with automatic retry on low-confidence answers.
+Features: LangGraph 6-node state machine, Query Rewriting, Semantic Retrieval, Confidence Evaluation, Feedback System, Docker Compose Deployment
 
----
-
-### EmbedBot — AI Chatbot SaaS
+### 🔹 EmbedBot — AI Chatbot SaaS
 > Next.js · FastAPI · PGVector · Groq LLM · Supabase
 
-SaaS platform that lets businesses upload documents and deploy an AI support chatbot on any website via an embeddable script tag. Features RAG pipeline with Sentence Transformer embeddings, multi-turn conversation memory, lead capture, and real-time analytics dashboard.
+Features: Embeddable Script Tag, RAG Pipeline, Multi-turn Conversation Memory, Lead Capture, Real-time Analytics Dashboard
 
----
-
-### Resume Tailor
+### 🔹 Resume Tailor
 > Next.js · Supabase · n8n · Gemini AI
 
-AI-powered platform that analyzes job descriptions and generates ATS-optimized resumes. Automated end-to-end with n8n workflows and Gemini AI, reducing manual customization time significantly.
+Features: Job Description Analysis, ATS-Optimized Resume Generation, n8n Workflow Automation, Magic Link Authentication
 
----
-
-### SkillBridge — Job Portal
+### 🔹 SkillBridge — Job Portal
 > MERN · Cloudinary · JWT
 
-Full-stack job portal with role-based access for employers and job seekers — job posting, applications, resume tracking, real-time filtering, and JWT authentication.
+Features: Role-Based Access (Employer & Job Seeker), Job Posting, Resume Tracking, Real-time Search Filtering, JWT Authentication
 
 ---
 
-## GitHub Stats
+## 🏆 Honors & Awards
+
+- 🎓 **CGPA 3.679/4.0** — BS Computer Science, UET Lahore
+- 🏅 **Teaching Assistant** — Core CS subjects (PF & OOP), UET Lahore
+
+---
+
+## 📚 Relevant Coursework
+
+Data Structures, Algorithms, Object-Oriented Programming, Artificial Intelligence, Database Management Systems, Software Engineering
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=GMD369&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -108,6 +114,17 @@ Full-stack job portal with role-based access for employers and job seekers — j
 
 ---
 
+## 📫 Let's Connect
+
+- 📧 Email: [ghulammohiyudin11@gmail.com](mailto:ghulammohiyudin11@gmail.com)
+- 💼 Portfolio: [gmd-ten.vercel.app](https://gmd-ten.vercel.app/)
+- 🔗 LinkedIn: [linkedin.com/in/ghulam-mohiyu-ud-din-854026294](https://linkedin.com/in/ghulam-mohiyu-ud-din-854026294)
+- 🧑‍💻 GitHub: [github.com/GMD369](https://github.com/GMD369)
+
+---
+
+<p align="center"><i>"Build systems that think. Ship products that matter."</i></p>
+
 <p align="center">
-  <i>Building AI systems that solve real problems.</i>
+  <img src="https://komarev.com/ghpvc/?username=GMD369&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
